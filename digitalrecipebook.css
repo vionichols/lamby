@@ -1,0 +1,99 @@
+/*TYPOGRAPHY*/
+h1, h2, h3, h4, h5 {
+    font-family: Aptos, sans-serif;
+}
+
+p, li, a {
+    font-family: Aptos, sans-serif;
+    font-weight: 400px; 
+}
+
+
+
+/*HEADER STYLES*/
+.header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.topnav {
+    background-color: #FFE5F1;
+    overflow: hidden;
+}
+.navbar a {
+    color: #000000; x
+    padding:14px 16px;
+    text-decoration:none;
+    font-size:12px;
+    font-family:Aptos, sans-serif
+    
+  }
+
+  .topnav a:hover {
+    background-color: #FFE5F1;
+    color: palevioletred;
+  }
+
+  .topnav a:active {
+    background-color: #FFE5F1;
+    color: plum;
+  }
+
+* { 
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+/*MAIN CONTENT*/
+
+
+
+.main-content h2 {
+    font-weight: bold;
+    font-size: 24px;
+    font-family:Helvetica, sans-serif;
+    text-transform: lowercase;
+    text-align: left;
+}
+
+.main-content h3 {
+    font-weight: bold;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: lowercase;
+    text-align: left;
+    font-style: italic;
+}
+
+.main-content {
+    margin-top: 24px;
+}
+
+body {
+    background-color:#FFE5F1;
+    
+}
+
+.post {
+    margin-top: 24px;
+
+}
+
+/* DIGITAL RECIPE BOOK*/
+
+.main-content .container a {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-content .container h2 {
+    margin-top: 24px;
+    padding-top: 24px;
+}
+
+.ul li {
+    list-style:
+}
